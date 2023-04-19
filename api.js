@@ -26,4 +26,4 @@ api.listen(porta); // Porta aonde o servidor escuta.
 // Em seguida, abrir no navegador a url: localhost:3000
 // É possível também inicializar com o comando: nodemon api (Desta forma, não é necessário executar novamente o comando toda vez que for alterado algo no código).
 
-console.log("Run API Express");
+console.log("Run API Express on Port 3000");
